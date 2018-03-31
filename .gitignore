@@ -1,0 +1,8 @@
+*.log
+NOTES
+t_oath.py
+#/mysite/settings.py
+__pycache__/
+#/notesmerge/templates/notesmerge/build/
+#/notesmerge/migrations/
+.idea/
